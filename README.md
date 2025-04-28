@@ -1,4 +1,4 @@
-# 💥 Brutegram 💥<br>Instagram Multi-Bruteforce (⚠️ currently NOT working ⚠️) 
+# 💥 Brutegram by supreme destructor💥<br>Instagram Multi-Bruteforce (⚠️ currently NOT working ⚠️) 
 
 ![logo](https://i.ibb.co/mRKXJft/81838757572.jpg)
  
@@ -24,8 +24,6 @@ bash Brutegram
 ```
 
 ## 📸 Screenshot 📸
-
-![Screenshot](https://i.postimg.cc/fwLVDC81/Screenshot-20200502-193420-Termux.jpg) 
 
 
 ### 👤 Connect with me 👤
